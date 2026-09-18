@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is part of Assignment 3.
+
 
 The aim of this project is to understand **2-D linear transformations** and apply them to an actual image using Python.
 
