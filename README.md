@@ -215,9 +215,4 @@ I also understood the relationship between:
 
 ---
 
-# Author
 
-**Sagar Rathour**
-
-Assignment 3
-Unified Engineering
