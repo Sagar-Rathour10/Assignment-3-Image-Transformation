@@ -1,4 +1,3 @@
-# Assignment-3-Image-Transformation
 # Assignment 3 – Image Transformation
 
 ## Introduction
